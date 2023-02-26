@@ -1,0 +1,3 @@
+name: SavannaMOTD
+version: '${project.version}'
+main: net.ramuremo.savannamotd.SavannaMOTD
